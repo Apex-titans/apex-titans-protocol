@@ -1,0 +1,43 @@
+# Apex Titans Protocol Architecture (ATS)
+
+## Goal
+Enable cross-chain usage without bridges or wrapped tokens by moving *ownership proofs*, not assets.
+
+## High-level Flow
+1. User “anchors” an asset/position on the source chain.
+2. Protocol records an ownership-proof commitment (hash) on-chain.
+3. The same proof can be presented on any supported chain.
+4. A verifier checks the proof and marks it as usable (prevents replay).
+5. Validators stake ATS and can be slashed for incorrect verification (future phase).
+
+## Components
+
+### A) OwnershipProofRegistry (Source chain)
+- Stores proof commitments (hashes) created by users.
+- Emits events for off-chain indexing and cross-chain tracking.
+- No bridging, no minting.
+
+### B) ProofVerifier (Destination chain)
+- Verifies that a proof commitment exists.
+- Prevents replay (same proof used twice).
+- In v0.x, verification is “registry-based” (demo).
+- In later versions, upgraded to light-client / ZK verification.
+
+### C) ValidatorStaking + Slashing (Phase 2)
+- Validators stake ATS to participate.
+- Wrong verification → slash.
+- Rewards come from protocol fees (no inflation).
+
+### D) Governance (Phase 2+)
+- ATS holders vote on supported chains, parameters, upgrades.
+
+## Security Principles
+- No bridges
+- No wrapped tokens
+- No admin minting
+- Immutable core contracts (upgrade only via governance later)
+- Replay protection
+
+## Current Scope (v0.1.x)
+- Proof commitment registry + verifier demo on testnet
+- Documentation and public releases
