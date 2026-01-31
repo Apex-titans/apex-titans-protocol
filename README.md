@@ -29,3 +29,17 @@ Phase 4: Full chain abstraction
 
 This project is currently in public research and development.
 No token sale. No mainnet token. No financial promises.
+
+## Verified Contracts (Remix VM)
+
+> Note: These addresses are from Remix VM (local in-browser chain) for demo/testing only.
+> For public verification, we will publish testnet/mainnet addresses in the next release.
+
+- OwnershipProofRegistry: `0x93f8dddd876c7dBE3323723500e83E202A7C96CC`
+- ProofVerifier: `0x5A86858aA3b595FD6663c2296741eF4cd8BC4d01`
+- ATSToken (ATS): `0x406AB5033423Dcb6391Ac9eEEad73294FA82Cfbc`
+
+## Current Status
+- ✅ Contracts: Prototype complete (local VM)
+- ✅ Docs: README / Architecture / Whitepaper
+- 🔜 Next: Public testnet deployment + verification
