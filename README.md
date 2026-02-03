@@ -51,5 +51,6 @@ No token sale. No mainnet token. No financial promises.
   - Security Model: docs/SECURITY_MODEL.md
   - Testnet Security Checklist: docs/TESTNET_SECURITY_CHECKLIST.md
   - FAQ: docs/FAQ.md
+  - Governance Model: docs/GOVERNANCE_MODEL.md
   - Audit Scope: docs/AUDIT_SCOPE.md
 - 🔜 Next: Public testnet deployment + verification
