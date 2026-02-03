@@ -50,5 +50,5 @@ No token sale. No mainnet token. No financial promises.
   - Validator & Slashing Model: docs/VALIDATOR_SLASHING_MODEL.md  - Roadmap v0.2: docs/ROADMAP_v0.2.md
   - Security Model: docs/SECURITY_MODEL.md
   - Testnet Security Checklist: docs/TESTNET_SECURITY_CHECKLIST.md
-
+  - FAQ: docs/FAQ.md
 - 🔜 Next: Public testnet deployment + verification
