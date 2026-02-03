@@ -55,4 +55,5 @@ No token sale. No mainnet token. No financial promises.
   - Audit Scope: docs/AUDIT_SCOPE.md
   - Incident Response Plan: docs/INCIDENT_RESPONSE.md
   - Economics Model: docs/ECONOMICS.md
+  - Testnet Deployment Guide: docs/TESTNET_DEPLOYMENT_GUIDE.md
 - 🔜 Next: Public testnet deployment + verification
