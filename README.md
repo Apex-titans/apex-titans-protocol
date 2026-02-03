@@ -41,8 +41,13 @@ No token sale. No mainnet token. No financial promises.
 
 ## Current Status
 - ✅ Contracts: Prototype complete (local VM)
-- ✅ Docs: README / Architecture / Whitepaper- Investor & Retail Protection Framework: docs/INVESTOR_RETAIL_PROTECTION.md
-- Manipulation Detection Model: docs/MANIPULATION_DETECTION_MODEL.md - Whitepaper v0.2: docs/WHITEPAPER_v0.2.md
+- ✅ - Docs:
+  - README
+  - Architecture
+  - Whitepaper v0.2: docs/WHITEPAPER_v0.2.md
+  - Investor & Retail Protection Framework: docs/INVESTOR_RETAIL_PROTECTION.md
+  - Manipulation Detection Model: docs/MANIPULATION_DETECTION_MODEL.md
+
 
 
 
