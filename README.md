@@ -57,4 +57,5 @@ No token sale. No mainnet token. No financial promises.
   - Economics Model: docs/ECONOMICS.md
   - Testnet Deployment Guide: docs/TESTNET_DEPLOYMENT_GUIDE.md
   - Contributing Guide: docs/CONTRIBUTING.md
+  - Terms & Disclaimer: docs/TERMS_DISCLAIMER.md
 - 🔜 Next: Public testnet deployment + verification
