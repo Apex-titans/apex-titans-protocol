@@ -48,7 +48,7 @@ No token sale. No mainnet token. No financial promises.
   - Investor & Retail Protection Framework: docs/INVESTOR_RETAIL_PROTECTION.md
   - Manipulation Detection Model: docs/MANIPULATION_DETECTION_MODEL.md - ZK Upgrade Path: docs/ZK_UPGRADE_PATH.md
   - Validator & Slashing Model: docs/VALIDATOR_SLASHING_MODEL.md  - Roadmap v0.2: docs/ROADMAP_v0.2.md
-
+  - Security Model: docs/SECURITY_MODEL.md
 
 
 - 🔜 Next: Public testnet deployment + verification
