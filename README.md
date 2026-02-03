@@ -53,4 +53,5 @@ No token sale. No mainnet token. No financial promises.
   - FAQ: docs/FAQ.md
   - Governance Model: docs/GOVERNANCE_MODEL.md
   - Audit Scope: docs/AUDIT_SCOPE.md
+  - Incident Response Plan: docs/INCIDENT_RESPONSE.md
 - 🔜 Next: Public testnet deployment + verification
